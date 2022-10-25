@@ -1,13 +1,13 @@
-# K-9 Mail
+# Cuddle Mail
 [![Latest release](https://img.shields.io/github/release/thundernest/k-9.svg?style=flat-square)](https://github.com/thundernest/k-9/releases/latest)
 [![Latest beta release](https://img.shields.io/github/v/release/thundernest/k-9.svg?include_prereleases&style=flat-square)](https://github.com/thundernest/k-9/releases)
 
-K-9 Mail is an open-source email client for Android.
+Cuddle Mail is an open-source email client for Android.
 
 
 ## Download
 
-K-9 Mail can be downloaded from a couple of sources:
+Cuddle Mail can be downloaded from a couple of sources:
 
 - [Google Play](https://play.google.com/store/apps/details?id=com.fsck.k9)
 - [F-Droid](https://f-droid.org/repository/browse/?fdid=com.fsck.k9)
@@ -19,7 +19,7 @@ You might also be interested in becoming a [tester](https://forum.k9mail.app/t/h
 ## Release Notes
 
 Check out the [Release Notes](https://github.com/thundernest/k-9/wiki/ReleaseNotes) to find out what changed
-in each version of K-9 Mail.
+in each version of Cuddle Mail.
 
 
 ## Need Help?
@@ -33,7 +33,7 @@ If the app is not behaving like it should, you might find these resources helpfu
 
 ## Translations
 
-Interested in helping to translate K-9 Mail? Contribute here:
+Interested in helping to translate Cuddle Mail? Contribute here:
 
 https://www.transifex.com/projects/p/k9mail/
 
